@@ -1,0 +1,5 @@
+redmine:latest
+gitlab-plugin:latest
+testlink:latest
+build-pipeline-plugin:latest
+http_request:latest
