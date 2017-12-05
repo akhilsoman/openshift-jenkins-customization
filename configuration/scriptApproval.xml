@@ -8,7 +8,7 @@
     <string>method groovy.time.BaseDuration getMinutes</string>
     <string>method groovy.time.BaseDuration getSeconds</string>
     <string>method java.util.Calendar getTimeInMillis</string>
-    <string>method java.io.File listFiles<string>
+    <string>method java.io.File listFiles</string>
     <string>method java.io.File getName</string>
     <string>method java.io.File isDirectory</string>
     <string>method java.util.Collection toArray</string>
@@ -16,6 +16,7 @@
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods traverse java.io.File java.util.Map groovy.lang.Closure</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods traverse java.io.File groovy.lang.Closure</string>
     <string>staticField groovy.io.FileType DIRECTORIES</string>
+    <string>field java.util.ArrayList size</string>
 
     <string>method groovy.json.JsonSlurper parse java.io.Reader</string>
     <string>method groovy.json.JsonSlurperClassic parse java.io.Reader</string>
