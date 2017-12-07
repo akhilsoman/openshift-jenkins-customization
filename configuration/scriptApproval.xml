@@ -15,6 +15,7 @@
     <string>staticMethod groovy.time.TimeCategory minus java.util.Date java.util.Date</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods traverse java.io.File java.util.Map groovy.lang.Closure</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods traverse java.io.File groovy.lang.Closure</string>
+    <string>staticMethod java.lang.System exit int</string>  
     <string>staticField groovy.io.FileType DIRECTORIES</string>
     <string>field java.util.ArrayList size</string>
 
