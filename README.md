@@ -54,3 +54,9 @@ $ oc edit template/jenkins-ephemeral -n openshift
 Then, change the `JENKINS_IMAGE_STREAM_TAG` in **parameters** section from `jenkins:latest` to `custom-jenkins-2-centos7:latest`.
 
 You are good to go now.
+
+
+References
+==========
+
+- [Script approvals needed for changes to build config Jenkinsfile · Issue #57 · openshift/jenkins-sync-plugin](https://github.com/openshift/jenkins-sync-plugin/issues/57)

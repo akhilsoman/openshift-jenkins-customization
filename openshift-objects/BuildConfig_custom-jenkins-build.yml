@@ -7,14 +7,13 @@ spec:
   source:                       
     type: "Git"
     git:
-      uri: "https://github.com/godleon/learning_openshift.git"
+      uri: "https://github.com/godleon/openshift-jenkins-customization.git"
       ref: "master"
-    contextDir: "jenkins_customization"
   strategy:                     
     sourceStrategy:
       from:
         kind: "DockerImage"
-        name: "openshift/jenkins-2-centos7"
+        name: "openshift/jenkins-2-centos7:latest"
     type: Source
   output:                       
     to:
