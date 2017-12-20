@@ -3,6 +3,8 @@
   <approvedScriptHashes>
   </approvedScriptHashes>
   <approvedSignatures>
+    <string>new groovy.json.JsonSlurperClassic</script>
+    
     <string>method groovy.json.JsonSlurperClassic parseText java.lang.String</string>
     <string>method groovy.time.BaseDuration getHours</string>
     <string>method groovy.time.BaseDuration getMinutes</string>
