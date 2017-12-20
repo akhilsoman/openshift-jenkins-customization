@@ -59,4 +59,6 @@ You are good to go now.
 References
 ==========
 
+- [openshift/jenkins](https://github.com/openshift/jenkins/)
+
 - [Script approvals needed for changes to build config Jenkinsfile · Issue #57 · openshift/jenkins-sync-plugin](https://github.com/openshift/jenkins-sync-plugin/issues/57)
