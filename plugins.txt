@@ -2,4 +2,4 @@ redmine:latest
 gitlab-plugin:latest
 testlink:latest
 build-pipeline-plugin:latest
-permissive-script-security:latest
+http_request:latest
