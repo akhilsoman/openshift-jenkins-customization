@@ -13,7 +13,7 @@ spec:
     sourceStrategy:
       from:
         kind: "DockerImage"
-        name: "openshift/jenkins-2-centos7:v3.9"
+        name: "openshift/jenkins-2-centos7:v3.10"
     type: Source
   output:                       
     to:

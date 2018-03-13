@@ -14,6 +14,7 @@
     <string>new java.io.OutputStreamWriter java.io.OutputStream</string>
     <string>new java.lang.String java.lang.String</string>
     <string>new java.util.Properties</string>
+    <string>new java.lang.StringBuffer</string>
 
     <string>method groovy.json.JsonSlurperClassic parseText java.lang.String</string>
     <string>method groovy.time.BaseDuration getHours</string>
@@ -73,6 +74,7 @@
     <string>method org.w3c.dom.NodeList item int</string>
     <string>method se.bjurr.gitchangelog.api.GitChangelogApi withFromRepo java.lang.String</string>
     <string>method se.bjurr.gitchangelog.api.GitChangelogApi withTemplateContent java.lang.String</string>
+    <string>method java.lang.Process waitFor</string>
 
 
     <string>staticMethod groovy.time.TimeCategory minus java.util.Date java.util.Date</string>
@@ -118,6 +120,7 @@
     <string>staticMethod java.lang.Thread sleep long</string>
     <string>staticMethod jenkins.model.Jenkins getInstance</string>
     <string>staticMethod se.bjurr.gitchangelog.api.GitChangelogApi gitChangelogApiBuilder</string>
+    <string>staticMethod org.codehaus.groovy.runtime.ProcessGroovyMethods consumeProcessOutput java.lang.Process java.lang.Appendable java.lang.Appendable</string>
 
     <string>staticField groovy.io.FileType FILES</string>
     <string>staticField groovy.io.FileType DIRECTORIES</string>
