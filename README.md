@@ -25,7 +25,7 @@ Before executing commands below, you need to use 'oc' to log into OpenShift plat
 
 ```bash
 # Get source code
-$ git clone https://github.com/godleon/learning_openshift.git
+$ git clone https://github.com/godleon/openshift-jenkins-customization.git
 
 # Create Jenkins Image Stream & Build for rebuilding Jenkins Image
 $ oc create -f openshift-jenkins-customization/openshift-objects/
