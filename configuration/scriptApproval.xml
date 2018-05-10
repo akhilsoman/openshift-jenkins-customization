@@ -76,7 +76,7 @@
     <string>method se.bjurr.gitchangelog.api.GitChangelogApi withTemplateContent java.lang.String</string>
     <string>method java.lang.Process waitFor</string>
 
-
+    <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods dump java.lang.Object</string>
     <string>staticMethod groovy.time.TimeCategory minus java.util.Date java.util.Date</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods getText</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods traverse java.io.File java.util.Map groovy.lang.Closure</string>
