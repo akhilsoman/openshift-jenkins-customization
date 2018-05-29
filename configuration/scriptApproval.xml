@@ -17,6 +17,7 @@
     <string>new java.lang.StringBuffer</string>
 
     <string>method java.lang.Class getClassLoader</string>
+    <string>method java.lang.ClassLoader loadClass java.lang.String</string>
     <string>method groovy.json.JsonSlurperClassic parseText java.lang.String</string>
     <string>method groovy.time.BaseDuration getHours</string>
     <string>method groovy.time.BaseDuration getMinutes</string>
